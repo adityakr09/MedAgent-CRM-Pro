@@ -16,7 +16,7 @@
     <th>AI Follow-up Suggestions</th>
   </tr>
   <tr>
-    <td><img src="" width="300"/></td>
+    <td><img src="https://github.com/adityakr09/MedAgent-CRM-Pro/blob/main/Screenshot%202026-04-28%20182447.png" width="300"/></td>
     <td><img src="" width="300"/></td>
     <td><img src="" width="300"/></td>
   </tr>
