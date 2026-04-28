@@ -6,6 +6,9 @@
 
 ---
 
+## 🎥 Live Demo
+[▶ Watch Demo](https://github.com/adityakr09/MedAgent-CRM-Pro/blob/main/Demo.mp4)
+
 ## 📸 Overview
 
 An AI-first Customer Relationship Management (CRM) system for Life Sciences field representatives to **log, manage, and analyze interactions with Healthcare Professionals (HCPs)**.
