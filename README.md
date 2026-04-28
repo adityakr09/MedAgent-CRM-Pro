@@ -16,9 +16,9 @@
     <th>AI Follow-up Suggestions</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_2026-04-28_183225.png" width="300"/></td>
-    <td><img src="screenshots/Screenshot_2026-04-28_183331.png" width="300"/></td>
-    <td><img src="screenshots/Screenshot_2026-04-28_183446.png" width="300"/></td>
+    <td><img src="" width="300"/></td>
+    <td><img src="" width="300"/></td>
+    <td><img src="" width="300"/></td>
   </tr>
 </table>
 
