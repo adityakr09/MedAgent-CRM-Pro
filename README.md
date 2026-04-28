@@ -7,7 +7,7 @@
 ---
 
 ## 🎥 Live Demo
-[▶ Watch Demo](https://github.com/adityakr09/MedAgent-CRM-Pro/blob/main/Demo.mp4)
+[▶ Watch Demo](https://github.com/adityakr09/MedAgent-CRM-Pro/blob/main/Demo.gif)
 
 ## 📸 Overview
 
