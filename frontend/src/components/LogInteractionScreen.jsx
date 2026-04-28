@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 
-const API = "http://localhost:8000";
+const API = process.env.REACT_APP_API_URL || "https://medagent-crm-pro-production.up.railway.app";
 
 const emptyForm = {
   hcp_name: "",
