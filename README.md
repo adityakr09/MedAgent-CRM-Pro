@@ -7,6 +7,12 @@
 ---
 
 ## 🎥 Live Demo
+
+Live Demo: med-agent-crm-pro.vercel.app
+
+API Documentation: Railway Swagger UI
+
+
 [▶ Watch Demo](https://github.com/adityakr09/MedAgent-CRM-Pro/blob/main/Demo.gif)
 
 <table>
