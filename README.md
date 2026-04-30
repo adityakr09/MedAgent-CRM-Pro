@@ -73,7 +73,7 @@ The **Log Interaction Screen** supports two powerful modes:
 │   /api/chat          ─►  LangGraph Agent            │
 │                               │                     │
 │              ┌────────────────▼──────────────────┐  │
-│              │         LangGraph Agent            │  │
+│              │         LangGraph Agent           │  │
 │              │   ┌──────────────────────────┐    │  │
 │              │   │    5 Tools via Groq LLM  │    │  │
 │              │   │  1. log_interaction      │    │  │
